@@ -1,0 +1,25 @@
+/* Montserrat font for entire website */
+body, 
+h1, h2, h3, h4, h5, h6,
+p, span, a, button, input, textarea, select, 
+.navbar, .dropdown-menu, .form-control, 
+.btn, .card, .modal-content, .footer {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+/* Override any specific font families that might be set elsewhere */
+.font-weight-bold {
+    font-weight: 700 !important;
+}
+
+.font-weight-medium {
+    font-weight: 500 !important;
+}
+
+.font-weight-normal {
+    font-weight: 400 !important;
+}
+
+.font-weight-light {
+    font-weight: 300 !important;
+} 
